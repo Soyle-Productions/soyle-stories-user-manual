@@ -1,12 +1,14 @@
 # Scene
 
-A scene encompasses one or more story events and perspectives. Scenes are also where prose is edited.
+A scene encompasses one or more story events and perspectives. Scenes are also where prose is edited. A scene can have inciting characters and oppositions to the inciting character.
 
 ### Typical properties of a scene include:
 
 - Name
 - Summary
 - Characters (optional)
+- Inciting Characters with Desire and Motivation in the scene
+- Character Opposition to the Inciting Character with Desire and Motivation in the scene
 - Location
 - Scene List 
 - Story Events
