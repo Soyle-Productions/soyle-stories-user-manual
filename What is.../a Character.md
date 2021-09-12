@@ -21,3 +21,4 @@ A Character is a participant in a story world and are the perspectives from whic
 - Develop a character arc 
 - Rename (Note: Names cannot be blank)
 - Create a character profile listing name, image and nicknames. 
+- Track characters in scenes
