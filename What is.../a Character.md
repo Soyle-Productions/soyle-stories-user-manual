@@ -1,6 +1,6 @@
 # Character
 
-A Character is a participant in a story world and are the perspectives from which you tell your story. 
+A Character is a participant in a story world and can include the perspectives from which you tell your story. 
 
 ### Typical properties of a character include:
 
