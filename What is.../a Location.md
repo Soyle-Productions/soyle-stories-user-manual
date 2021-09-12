@@ -15,6 +15,7 @@ A Location
 
 - Create or delete
 - Name or rename 
-- Add or Remove Characters, Character Arc Sections, Symbols, Story Events to/from it
+- Add or Remove Characters, Character Arc Sections, Symbols to/from it
+- Add or remove the one Location assignable to a Story Event
 - Host or Remove Scenes
 - [ ] TODO - @ryanreso1993 finish filling in theme use cases
