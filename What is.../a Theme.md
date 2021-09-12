@@ -15,5 +15,9 @@ A Theme is a central question within the story that the story explores and will 
 ### Things That can be Done with or to a Theme:
 
 - Add or Remove Characters to/from it
+- Compare Character Values
+- Compare Thematic Values
 - Create a Symbol in it
+- Examine the central conflict
+- Outline the moral argument
 - [ ] TODO - @ryanreso1993 finish filling in theme use cases
