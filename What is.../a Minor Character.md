@@ -10,7 +10,7 @@ Most movies will only have the protagonist be a major character while everyone e
 - Theme
 - Way They Push A Major Character on that Theme
 
-### Things That can be Done with or to a Theme:
+### Things That can be Done with or to a Minor Character:
 
 - Assign or Unassign Characters to/from it
 - Promote a minor character to a major character. 
