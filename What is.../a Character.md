@@ -19,5 +19,5 @@ A Character is a participant in a story world and are the perspectives from whic
 - Add or Remove Characters to a Scene, Theme, Symbol, or Story Event. 
 - Develop a character arc 
 - Rename (Note: Names cannot be blank)
-- Create a character profile listing name, image and nicknames. 
+- Create a character profile listing name, image and name variants. 
 - Track characters in scenes
