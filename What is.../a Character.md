@@ -7,6 +7,7 @@ A Character is a participant in a story world.
 - Name and nicknames
 - Character arcs
 - Major / Minor Character in Theme
+- Moral Argument in a Theme
 - Perspective
 - Scene
 - Symbol
