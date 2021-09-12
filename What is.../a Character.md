@@ -4,14 +4,13 @@ A Character is a participant in a story world and are the perspectives from whic
 
 ### Typical properties of a character include:
 
-- Name and nicknames
-- Character arcs
-- Major / Minor Character in Theme
+- Name and (Optional) Name Variant
+- Character arc (one or more)
 - Moral Argument in a Theme
 - Perspective
 - Profile
-- Scene
-- Symbol
+- Scene (one or more)
+- Symbol (one or more)
 
 
 ### Things that can be done with or to a character:
