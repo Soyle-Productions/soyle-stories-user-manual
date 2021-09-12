@@ -4,4 +4,4 @@ A moral problem is a situation in the story in which one or more characters must
 
 ### Things that can be done to or with moral problems:
  
-- Include in the Moral Argument of a theme
+- Include in the Moral Argument of a Theme
