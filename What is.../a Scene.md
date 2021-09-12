@@ -1,6 +1,6 @@
 # Scene
 
-A scene encompasses one or more story events. Scenes are also where prose is edited.
+A scene encompasses one or more story events and perspectives. Scenes are also where prose is edited.
 
 ### Typical properties of a scene include:
 
