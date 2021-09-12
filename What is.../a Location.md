@@ -1,6 +1,6 @@
 # Location
 
-A Location tracks the setting included in story events. 
+A Location is the setting of a story event. 
 
 ### Typical properties of a location include: 
 
@@ -17,6 +17,6 @@ A Location tracks the setting included in story events.
 - Name or rename 
 - Add or Remove Characters, Character Arc Sections, Symbols to/from it
 - Add or remove the one Location assignable to a Story Event
-- Host Scenes
+- Host Scenes and Remove Host Scenes
 - Track locations in scenes
 - [ ] TODO - @ryanreso1993 finish filling in theme use cases
