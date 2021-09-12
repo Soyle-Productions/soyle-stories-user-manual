@@ -18,4 +18,5 @@ A Location
 - Add or Remove Characters, Character Arc Sections, Symbols to/from it
 - Add or remove the one Location assignable to a Story Event
 - Host or Remove Scenes
+- Track locations in scenes
 - [ ] TODO - @ryanreso1993 finish filling in theme use cases
