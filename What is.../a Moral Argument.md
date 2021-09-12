@@ -1,6 +1,6 @@
 # Moral Argument
 
-A Moral Arguments lists the moral problem, theme line, and thematic revaltion of a perspective character in a scene. 
+A Moral Arguments lists the moral problem, theme line, and thematic revaltion of a perspective character in a theme. 
 
 ### Typical properties of a theme include:
 
