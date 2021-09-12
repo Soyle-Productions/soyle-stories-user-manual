@@ -7,8 +7,8 @@ A scene encompasses one or more story events and perspectives. Scenes are also w
 - Name
 - Summary
 - Characters (optional)
-- Inciting Characters with Desire and Motivation in the scene
-- Character Opposition to the Inciting Character with Desire and Motivation in the scene
+- Inciting Characters with Desire, Motivation, and Character Arc section in the scene
+- Character Opposition to the Inciting Character with Desire, Motivation, and Character Arc section in the scene
 - Location
 - Scene List 
 - Story Events
