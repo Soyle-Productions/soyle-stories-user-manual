@@ -1,8 +1,8 @@
-### How Do I Change a Time Skip's Duration?
+## How Do I Change a Time Skip's Duration?
 
 This guide assumes you have [created](/How%20Do%20I/Create/a%20Time%20Skip.md) the [time skip](What%20is/a%20Time%20Skip.md) in question.
 
-## Create a Time Skip on top of the Original
+### Create a Time Skip on top of the Original
 Assuming you have opened the timeline,  
 ![Timeline](TODO)  
 click on the target start and end units of time  
