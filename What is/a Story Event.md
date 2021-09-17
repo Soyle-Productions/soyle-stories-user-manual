@@ -10,12 +10,12 @@
 - a point in time at which it happens
 
 ### What can the writer do to a story event?
-- [Create a Story Event](/How Do I/Create/a Story Event.md)
-- [Remove a Story Event from the Project](/How Do I/Remove/a Story Event from the Project.md)
-- [Rename a Story Event](/How Do I/Rename/a Story Event.md)
-- [Change the Story Event's Summary](/How Do I/Change/a Story Event's/Summary.md)
-- [Include a Character in the Story Event](/How Do I/Include/a Character in a Story Event.md)
-- [Remove a Character from the Story Event](/How Do I/Remove/a Character from a Story Event.md)
-- [Change the Story Event's Location](/How Do I/Change/a Story Event's\Location.md)
-- [Remove the Story Event's Location](/How Do I/Remove/a Story Event's Location.md)
-- [Change the Story Event's Point in Time](/How Do I/Change/a Story Event's/Point in Time.md)
+- [Create a Story Event](/How%20Do%20I/Create/a%20Story%20Event.md)
+- [Remove a Story Event from the Project](/How%20Do%20I/Remove/a%20Story%20Event%20from%20the%20Project.md)
+- [Rename a Story Event](/How%20Do%20I/Rename/a%20Story%20Event.md)
+- [Change the Story Event's Summary](/How%20Do%20I/Change/a%20Story%20Event's/Summary.md)
+- [Include a Character in the Story Event](/How%20Do%20I/Include/a%20Character%20in%20a%20Story%20Event.md)
+- [Remove a Character from the Story Event](/How%20Do%20I/Remove/a%20Character%20from%20a%20Story%20Event.md)
+- [Change the Story Event's Location](/How%20Do%20I/Change/a%20Story%20Event's\Location.md)
+- [Remove the Story Event's Location](/How%20Do%20I/Remove/a%20Story%20Event's%20Location.md)
+- [Change the Story Event's Point in Time](/How%20Do%20I/Change/a%20Story%20Event's/Point%20in%20Time.md)
