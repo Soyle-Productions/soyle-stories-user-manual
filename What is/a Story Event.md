@@ -10,12 +10,12 @@
 - a point in time at which it happens
 
 ### What can the writer do to a story event?
-- Create a Story Event
-- Remove a Story Event from the Project
-- Rename a Story Event
-- Change the Story Event's Summary
-- Include a Character in the Story Event
-- Remove a Character from the Story Event
-- Change the Story Event's Location
-- Remove the Story Event's Location
-- Change the Story Event's Point in Time
+- [Create a Story Event](/How Do I/Create/a Story Event.md)
+- [Remove a Story Event from the Project](/How Do I/Remove/a Story Event from the Project.md)
+- [Rename a Story Event](/How Do I/Rename/a Story Event.md)
+- [Change the Story Event's Summary](/How Do I/Change/a Story Event's/Summary.md)
+- [Include a Character in the Story Event](/How Do I/Include/a Character in a Story Event.md)
+- [Remove a Character from the Story Event](/How Do I/Remove/a Character from a Story Event.md)
+- [Change the Story Event's Location](/How Do I/Change/a Story Event's\Location.md)
+- [Remove the Story Event's Location](/How Do I/Remove/a Story Event's Location.md)
+- [Change the Story Event's Point in Time](/How Do I/Change/a Story Event's/Point in Time.md)
