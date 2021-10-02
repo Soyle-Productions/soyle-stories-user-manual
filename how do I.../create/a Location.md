@@ -1,13 +1,13 @@
 There are two ways to create a new location.
 
-To create a location in the Locations List tool:
+Create the First Location in Your Story:
 1. Create a Project
 2. Select the Locations List tool
 3. Click the "Create a Location" button
 4. Supply a Name and optional Description
-5. Hit the Enter key
+5. Press the Enter key
 
-To create a Location through the Scene tool:
+Create a Location to Use as a Setting in a Scene:
 1. Create a Project
 2. Select the Scenes List tool
 3. Click the "Create New Scene" button
@@ -18,7 +18,7 @@ To create a Location through the Scene tool:
 8. In the Scene Settings Tool, select "Use Location"
 9. Select "Create Location" in the dropdown
 10. Supply a name and optional description
-11. Hit Enter
+11. Press Enter
 
 
 
