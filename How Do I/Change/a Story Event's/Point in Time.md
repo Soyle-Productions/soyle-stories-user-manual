@@ -13,8 +13,14 @@ select the options button in the top-right corner,
 and select the "Reschedule" option
 ![Story Event List Single Selection](/resources/story%20events/list/Story%20Event%20List%20with%20Rescheduled%20Story%20Event.PNG)  
 enter the new unit of time in which you want this story event to take place
+<<<<<<< HEAD
 ![Reschedule Story Event Dialog](/resources/story%20events/reschedule/Reschedule%20Story%20Event%20Dialog.PNG)  
 and either press Enter or click on the RESCHEDULE button
 ![Reschedule Story Event Dialog Reschedule Button Hovered](/resources/story%20events/reschedule/Reschedule%20Story%20Event%20Dialog%20RESCHEDULE%20Hovered.PNG)  
+=======
+![Reschedule Story Event Dialog](/resources/story%20events/list/Reschedule%20Story%20Event%20Dialog.PNG)  
+and either press Enter or click on the RESCHEDULE button
+![Reschedule Story Event Dialog Reschedule Button Hovered](/resources/story%20events/list/Reschedule%20Story%20Event%20Dialog%20RESCHEDULE%20Hovered.PNG)  
+>>>>>>> 99c85d31dc15b2b7b6358077d61e076f46803f66
 This will change the story event's point in time to the provided unit of time
 ![Story Event List](/resources/story%20events/list/Story%20Event%20List%20with%20Rescheduled%20Story%20Event.PNG)  
