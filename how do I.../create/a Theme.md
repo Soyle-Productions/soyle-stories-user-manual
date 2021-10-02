@@ -1,14 +1,14 @@
 There are two ways to create a new Theme.
 
-To create a scene in the Themes List tool:
+Create the First Theme in Your Project:
 1. Create a Project
 2. Select Tools in the top toolbar
 3. Select "Themes"
 4. Click the "Create First Theme" button
 5. Supply a name
-6. Hit Enter
+6. Press Enter
 
-To create a Theme through the Scenes List tool:
+Create a Theme and Symbol to Use in a Scene:
 1. Create a Project
 2. Select the Scenes List tool
 3. Click the "Create New Scene" button
@@ -20,7 +20,7 @@ To create a Theme through the Scenes List tool:
 9. Select "Create New Symbol and Theme" in the dropdown
 10. Supply a name for the Symbol
 11. Supply a name in the Create New Theme field
-12. Hit Enter
+12. Press Enter
 
 
 
