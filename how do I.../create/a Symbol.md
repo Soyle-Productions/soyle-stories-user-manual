@@ -22,7 +22,7 @@ To create a symbol through the Themes list tool:
 5. Hit Enter
 
 To create a symbol through a theme in the Themes list tool:
-1. Select the Themnes List Tool
+1. Select the Themes List Tool
 2. Click the "Create New Theme" button at the bottom 
 3. Supply a theme name
 4. Right-click the theme name
