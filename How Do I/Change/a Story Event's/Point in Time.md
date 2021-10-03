@@ -1,4 +1,4 @@
-## How Do I Change a Story Event's Location?
+## How Do I Change a Story Event's Point in Time?
 
 This guide assumes you have [created](/How%20Do%20I/Create/a%20Story%20Event.md) the [story event](/What%20is/a%20Story%20Event.md) in question.
 
