@@ -7,12 +7,11 @@ This guide assumes you have [created](/How%20Do%20I/Create/a%20Story%20Event.md)
 <details>
   <summary>Steps</summary>
 
-1.
 > Assuming you have opened the story event list
 >
 > ![Story Event List](/resources/story%20events/list/Story%20Event%20List.PNG)
 >
-1. 
+1.
 > either right-click on the target story event
 >
 > ![Story Event List Context Menu](/resources/story%20events/list/Story%20Event%20Context%20Menu.PNG)
