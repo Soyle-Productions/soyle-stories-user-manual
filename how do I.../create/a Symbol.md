@@ -1,6 +1,6 @@
 There are three ways to create a new symbol.
 
-To create a character in the Scenes List tool:
+To create a symbol in the Scenes List tool:
 1. Create a Project
 2. Select the Scenes List Tool
 3. Click the "Create New Scene" button
