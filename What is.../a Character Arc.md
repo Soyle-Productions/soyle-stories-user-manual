@@ -1,3 +1,7 @@
+NOT IN ALPHA
+===
+
+
 # Character Arc
 
 A Character Arc outlines the change in characterization of a Character over the course of a narrative. Character arcs follow a Character Arc Template and have Sections.

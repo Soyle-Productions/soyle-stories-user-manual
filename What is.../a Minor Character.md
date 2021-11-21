@@ -1,3 +1,7 @@
+NOT IN ALPHA
+===
+
+
 # Minor Character
 
 A Minor Character can be a character assigned to a Theme who pushes a Major Character along a Theme and who does not have a perspective in that theme. A distinction between major and minor characters within a theme are that minor characters only exist to push the major characters along that theme. They themselves are not pushed. 

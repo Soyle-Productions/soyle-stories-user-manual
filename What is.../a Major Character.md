@@ -1,3 +1,7 @@
+NOT IN ALPHA
+===
+
+
 # Major Character
 
 A Major Character can be a character assigned to a Theme or Scene and who has a Character Perspective. A distinction between major and minor characters within a theme are that minor characters only exist to push the major characters along that theme. 

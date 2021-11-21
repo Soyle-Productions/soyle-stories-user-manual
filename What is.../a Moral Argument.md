@@ -1,3 +1,7 @@
+NOT IN ALPHA
+===
+
+
 # Moral Argument
 
 A Moral Arguments lists the moral problem, theme line, and thematic revaltion of a perspective character in a theme. 
