@@ -20,10 +20,9 @@ A scene encompasses one or more story events. In a written story, a scene would 
 - Add or remove scenes
 - Add or remove story events
 - Name or rename
-- Edit prose
+- Edit prose (write my scene's prose)
 - Insert a new scene before or after in the Scene List
 - Track characters
 - Track locations
-- Track symbols
 - [ ] TODO - @ryanreso1993 finish filling in scene use cases
 
