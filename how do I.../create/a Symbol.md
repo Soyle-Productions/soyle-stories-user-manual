@@ -1,3 +1,6 @@
+NOT IN ALPHA
+===
+
 There are three ways to create a new symbol.
 
 To create a symbol in the Scenes List tool:
