@@ -12,5 +12,16 @@ You can:
 - track locations in a scene
 - track symbols in a scene 
 
+To create a character through the Scenes tool:
+1. Select the Scenes Tool
+2. Click "Create New Scene"
+3. Supply a name 
+4. Right-click the scene in the Scenes tool
+5. Select "Track Characters"
+6. In the Scene Characters tool, select "Add Character"
+7. In the drop down, select "Create New Character"
+8. Supply a name
+9. Hit Enter key
+
 
 

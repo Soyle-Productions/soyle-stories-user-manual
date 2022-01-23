@@ -14,8 +14,6 @@ A Story Event is a distinct change within the story world.  It may or may not be
 
 - Add or remove a single Location
 - Add or remove symbols
-- Add or remove character arc sections
+- Add or remove characters
 - Add or remove a summary
 - Name or rename
-- [ ] TODO - @ryanreso1993 finish filling in theme use cases
-
