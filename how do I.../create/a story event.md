@@ -1,3 +1,5 @@
+A story event is something that takes place in your story with a setting and/or character(s).
+
 To create a story event:
 1. Create a Project
 2. Select the Story Events Tool
