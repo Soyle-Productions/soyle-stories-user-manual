@@ -2,7 +2,7 @@
 
 There are two ways to create a new location.
 
-## Create the First Location in Your Story:
+## Create a location in the Locations List tool:
 
 1. Create a Project
 2. Select the Locations List tool
