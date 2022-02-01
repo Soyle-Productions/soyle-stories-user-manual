@@ -1,4 +1,7 @@
-To remove a character from your scene, assuming you've included a character to the scene:
+# How do I remove a character from my scene?
+Removing a character from your scene will take them out of the scene in question, but the character will not be removed from your project all together.
+
+## To remove a character from your scene, assuming you've included a character to the scene:
 
 1. Open the Scenes List tool
 2. Right-click the scene

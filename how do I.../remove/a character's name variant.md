@@ -1,4 +1,7 @@
-To remove a character's name variation, assuming you have a character with a name variation:
+# How do I remove a character's name variant?
+A name variant is a nickname saved for your character and can be easily removed.
+
+## To remove a character's name variation, assuming you have a character with a name variation:
 
 1. Open the Character List Tool
 2. Right-click the character 

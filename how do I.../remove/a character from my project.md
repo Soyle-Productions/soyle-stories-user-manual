@@ -1,4 +1,7 @@
-There are two ways to remove a character from your project, assuming you've created the character:
+# How do I remove a character from my project?
+Removing your character from your project will remove that character all together from your project file. This is different from removing a character from a scene, for example. 
+
+## There are two ways to remove a character from your project, assuming you've created the character:
 
 1. Open the Characters List Tool
 2. Right-click the character

@@ -1,4 +1,7 @@
-There are two ways to remove a location from your project, assuming you've created the location:
+# How do I remove a location from my project?
+If you no longer want a location in your project and want to completely remove it, follow the steps below. This is different from removing a location from a scene, which does not remove it from the project.
+
+## There are two ways to remove a location from your project, assuming you've created the location:
 
 1. Open the Locations List Tool
 2. Right-click the location

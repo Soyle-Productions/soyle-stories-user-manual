@@ -1,4 +1,7 @@
-To include a character in a scene, assuming you've created a scene and a character:
+# How do I include a character in my scene?
+Including characters in your scene allows you to track which characters are present in the scene you're writing. 
+
+## To include a character in a scene, assuming you've created a scene and a character:
 
 1. Open the Scenes List Tool
 2. Right-click the scene you want include a character

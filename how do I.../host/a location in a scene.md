@@ -1,4 +1,7 @@
-To host a location in a scene, assuming you've created a scene and a location:
+# How do I host a location in a scene?
+Hosting a locaiton is a scene makes that location a setting within the scene.
+
+## To host a location in a scene, assuming you've created a scene and a location:
 
 1. Open the Scenes List Tool
 2. Right-click the scene you want to host a location
