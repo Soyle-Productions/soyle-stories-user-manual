@@ -2,7 +2,6 @@
 Create a character to include in your story through the Character List Tool. 
 
 
-
 ## Create a character in the Character List tool:
 1. Create a Project
 2. Select the Character List Tool
