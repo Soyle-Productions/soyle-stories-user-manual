@@ -10,7 +10,7 @@ A Character is a participant in a story world and can include the perspectives f
 
 ### Things that can be done with or to a character:
 
-- [Create a character] (/How%20do%20I%20create.../a%20Character.md) 
+- [Create a character] (/how%20do%20I.../create/a%20Character.md)
 - Rename a Character
 - Add a Name Variant to a Character
 - Remove a Character's Name Variant
