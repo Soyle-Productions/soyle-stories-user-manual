@@ -1,4 +1,4 @@
-# Story Event
+# What is a story event?
 
 A Story Event is a distinct change within the story world.  It may or may not be shown to the audience or reader, but it's something that has happened at some point. 
 

@@ -1,4 +1,4 @@
-# Location
+# What is a location?
 
 A Location is the setting of a story event. 
 

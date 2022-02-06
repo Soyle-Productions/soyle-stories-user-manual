@@ -1,4 +1,6 @@
-To rename a story event in your project, assuming you've created a story event:
+# How do I rename a story event in my story?
+
+## To rename a story event in your project, assuming you've created a story event:
 
 1. Open the Story Events List Tool
 2. Right-click the story event in the List

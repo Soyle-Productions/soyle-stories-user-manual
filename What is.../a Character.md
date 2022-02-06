@@ -1,4 +1,4 @@
-# Character
+# What is a character?
 
 A Character is a participant in a story world and can include the perspectives from which you tell your story. 
 

@@ -1,3 +1,5 @@
+# What can I do with the Character List Tool?
+
 The Character List shows all the [characters](/What%20is.../a%20Character.md) in your project and allows you to manage them.
 
 You can:

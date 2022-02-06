@@ -1,4 +1,4 @@
-# Project
+# What is a project?
 
 A project is a saved file which holds a user story. 
 

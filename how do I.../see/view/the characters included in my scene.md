@@ -1,4 +1,7 @@
-To see the characters included in your scene, assuming you've included the characters in your scene:
+# How do I view the characters included in a scene?
+
+
+## To see the characters included in your scene, assuming you've included the characters in your scene:
 
 1. Open the Scenes List tool
 2. Right-click the scene

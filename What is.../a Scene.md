@@ -1,4 +1,4 @@
-# Scene
+# What is a scene?
 
 A scene encompasses one or more story events. In a written story, a scene would be told to the reader as prose; but in a movie, or other forms of storytelling, it may be told via a written script, then later as something filmed, animated, or performed. A scene can have inciting characters and oppositions to the inciting character.
 

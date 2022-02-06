@@ -1,4 +1,4 @@
-How do I start my story in Soyle Stories?
+# How do I start my story in Soyle Stories?
 
 To start editing your story in the Soyle Stories software, you'll need to begin by creating a project. 
 

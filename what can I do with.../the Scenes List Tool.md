@@ -1,3 +1,5 @@
+# What can I do with the Scenes List Tool?
+
 The Scenes List shows all the [scenes](/What%20is.../a%20Scene.md) in your project and allows you to manage them.
 
 You can:

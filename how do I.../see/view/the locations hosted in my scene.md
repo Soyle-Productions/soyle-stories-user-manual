@@ -1,4 +1,6 @@
-To see the locations hosted in your scene, assuming you've hosted the locations in your scene:
+# How do I view the locations hosted in a scene?
+
+## To see the locations hosted in your scene, assuming you've hosted the locations in your scene:
 
 1. Open the Scenes List tool
 2. Right-click the scene

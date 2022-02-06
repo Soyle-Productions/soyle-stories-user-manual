@@ -1,4 +1,6 @@
-To rename a location in your project, assuming you've created a location:
+# How do I rename a location in my story?
+
+## To rename a location in your project, assuming you've created a location:
 
 1. Open the Locations List Tool
 2. Right-click the location in the list
