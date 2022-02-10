@@ -10,10 +10,10 @@ A Character is a participant in a story world and can include the perspectives f
 
 ### Things that can be done with or to a character:
 
-- [Create a character] (/how%20do%20I.../create/a%20Character.md)
-- Rename a Character
-- Add a Name Variant to a Character
-- Remove a Character's Name Variant
-- Remove a Character from a Project
-- Include a Character in a Scene
-- Remove a Character from a Scene
+- [Create a character](/how%20do%20I.../create/a%20Character.md)
+- [Rename a Character]
+- [Add a Name Variant to a Character](/how%20do%20I.../create/a%20character%20name%20variant.md)
+- [Remove a Character's Name Variant](/how%20do%20I.../remove/a%20character%20name%20variant.md)
+- [Remove a Character from a Project]
+- [Include a Character in a Scene]
+- [Remove a Character from a Scene]

@@ -1,5 +1,5 @@
 # How do I create a character?
-Create a character to include in your story through the Character List Tool. 
+Create a [character](What is.../a Character.md) to include in your story through the Character List Tool. 
 
 
 ## Create a character in the Character List tool:
