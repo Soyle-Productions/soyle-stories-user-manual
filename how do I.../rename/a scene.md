@@ -1,4 +1,5 @@
 # How do I rename a scene in my story?
+You can rename any [scene]() in your [project]() in the [Scenes List Tool]()
 
 ## To rename a scene in your project, assuming you've created a scene:
 

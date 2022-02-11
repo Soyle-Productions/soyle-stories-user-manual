@@ -6,14 +6,12 @@ A Story Event is a distinct change within the story world.  It may or may not be
 
 - Name
 - Summary
-- Characters (optional)
-- Location
-- Time Unit at which is happens and endures
+- [Characters]() (optional)
+- [Location]
 
 ### Things that can be done or to story events:
 
-- Add or remove a single Location
-- Add or remove symbols
-- Add or remove characters
-- Add or remove a summary
-- Name or rename
+- [Add]() or [remove]() a single location
+- [Add]() or [remove]() characters
+- [Add]() or [remove]() a summary
+- Name or [rename]()
