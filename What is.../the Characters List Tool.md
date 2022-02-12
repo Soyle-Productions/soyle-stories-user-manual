@@ -1,6 +1,6 @@
 # What is the Characters List Tool?
 
-The Characters List Tool shows all the [characters]() you've created in your [project](). 
+The Characters List Tool shows all the [characters](/What%20is%.../a%20Character.md) you've created in your [project](). 
 
 
 ### Typical properties of the Characters List Tool include:

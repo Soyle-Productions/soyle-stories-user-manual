@@ -6,7 +6,7 @@ A Story Event is a distinct change within the story world.  It may or may not be
 
 - Name
 - Summary
-- [Characters]() (optional)
+- [Character(s)](/What%20is%.../a%20Character.md) (optional)
 - [Location]
 
 ### Things that can be done or to story events:

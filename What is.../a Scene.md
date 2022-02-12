@@ -6,9 +6,7 @@ A scene encompasses one or more [story events](). In a written story, a scene wo
 
 - Name
 - Summary
-- Characters (optional)
-- Inciting Characters with Desire, Motivation, and Character Arc section in the scene
-- Character Opposition to the Inciting Character with Desire, Motivation, and Character Arc section in the scene
+- [Character(s)](/What%20is%.../a%20Character.md) (optional)
 - [Location]()
 - [Scene List]() 
 - The Scene's Written Prose

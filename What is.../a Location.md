@@ -4,7 +4,7 @@ A location is the setting of a [story event]().
 
 ### Typical properties of a location include: 
 
-- [Character(s)]()
+- [Character(s)](/What%20is%.../a%20Character.md)
 - Description
 - Location Details
 - [Scene(s)]()

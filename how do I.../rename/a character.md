@@ -1,7 +1,7 @@
 # How do I rename a character in my story?
-Choose a different main name for your [character]().`
+Choose a different main name for your [character](/how%20do%20I.../create/a%20Character.md).`
 
-## To rename a character in your project, assuming you've created a character:
+## To rename a character in your project, assuming you've [created a character](/how%20do%20I.../create/a%20Character.md):
 
 1. Open the [Characters List Tool]()
 2. Right-click the character in the List
