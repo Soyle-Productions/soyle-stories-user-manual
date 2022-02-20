@@ -1,5 +1,6 @@
 # How do I open my saved project?
-If you've already created a [project]() and saved it in an earlier session, you can pull it back up from the folder where you saved your story file. 
+
+If you've already created a project and saved it in an earlier session, you can pull it back up from the folder where you saved your story file. 
 
 ## There are two ways to open a project, assuming you have one saved:
 
