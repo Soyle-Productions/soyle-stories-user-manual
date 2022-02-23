@@ -6,7 +6,7 @@ If you've already created a project and saved it in an earlier session, you can 
 
 From the Welcome screen:
 
-1. Open Soyle Stories
+1. Assuming you have Soyle Stories open
 2. Select Open project
 3. Find the project in the folder where you saved it last
 

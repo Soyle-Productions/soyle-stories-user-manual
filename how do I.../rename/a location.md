@@ -3,7 +3,7 @@ You can rename any [location]() in your project in the [Locations List tool]().
 
 ## To rename a location in your project, assuming you've created a location:
 
-1. Open the Locations List Tool
+1. Assuming you have the Locations List Tool open
 2. Right-click the location in the list
 3. Select "Rename" in the dropdown menu
 4. Type in the new name of your location

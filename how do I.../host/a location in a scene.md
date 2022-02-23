@@ -4,7 +4,7 @@ Hosting a locaiton is a scene makes that location a setting within the scene.
 
 ## To host a location in a scene, assuming you've created a scene and a location:
 
-1. Open the Scenes List Tool
+1. Assuming you have the Scenes List Tool open
 2. Right-click the scene you want to host a location
 3. Select "Track Locations" in the dropdown menu, and the Scene Settings Tool will open
 4. In the Scene Settings Tool, click "Use Location" button at the bottom

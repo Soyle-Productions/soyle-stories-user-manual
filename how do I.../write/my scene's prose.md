@@ -1,6 +1,6 @@
 ## To write and edit your scene's prose, assuming you've created a scene:
 
-1. Open the Scenes List Tool
+1. Assuming you have the Scenes List Tool open
 2. Right-click the scene
 3. Select "Edit" in the dropdown
 

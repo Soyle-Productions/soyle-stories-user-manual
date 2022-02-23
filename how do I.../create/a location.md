@@ -4,7 +4,7 @@ A location is a setting in which one or more [story events](/What%20is%.../a%20S
 
 ## Create a location in the Locations List tool:
 
-1. Create a [Project](/What%20is%.../a%20Project.md)
+1. Assuming you have a [Project](/What%20is%.../a%20Project.md) open
 2. Select the [Locations List tool](/What%20is%.../the%20Locations%20List%20Tool.md)
 3. Click the "Create a Location" button
 4. Supply a Name and optional Description

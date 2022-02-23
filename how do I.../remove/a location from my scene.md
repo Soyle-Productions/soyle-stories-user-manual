@@ -4,7 +4,7 @@ If you want to remove a location from your scene, but keep the location in your 
 
 ## To remove a location from your scene, assuming you've hosted a location in the scene:
 
-1. Open the Scenes List tool
+1. Assuming you have the Scenes List tool open
 2. Right-click the scene
 3. Select "Track Locatiosn" in the drop down menu to open the Scene Locations tool
 4. Right-click the location in the Scene Locations tool

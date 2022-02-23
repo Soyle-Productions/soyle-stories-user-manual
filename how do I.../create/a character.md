@@ -3,7 +3,7 @@ Create a [character](/What%20is.../a%20Character.md) to include in your story th
 
 
 ## Create a character in the Character List tool:
-1. Create a [Project](/What%20is%.../a%20Project.md)
+1. Assuming you have a [Project](/What%20is%.../a%20Project.md) open
 2. Select the Character List Tool
 3. Click the "Create New Character" button
 4. Supply a Name 
