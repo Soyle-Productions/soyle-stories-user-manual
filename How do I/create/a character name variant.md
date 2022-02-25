@@ -1,6 +1,6 @@
 # How do I give name variants for my character?
 
-A name variant is any name variation a [character](/What%20is%.../a%20Character.md) is referred to in your story [project](/What%20is/a%20Project.md).
+A name variant is any name variation a [character](/What%20is/a%20Character.md) is referred to in your story [project](/What%20is/a%20Project.md).
 
 ## Create a name variant after you've created a character:
 
