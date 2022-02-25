@@ -4,7 +4,7 @@ Including characters in your scene allows you to track which characters are pres
 
 ## To include a character in a scene, assuming you've created a scene and a character:
 
-1. Assuming you have the Scenes List Tool open
+1. Assuming you have the Scene List Tool open
 2. Right-click the scene you want include a character
 3. Select "Track Characters" in the dropdown menu, and the Scene Characters Tool will open
 4. In the Scene Characters Tool, click the "Add Character" button at the bottom
