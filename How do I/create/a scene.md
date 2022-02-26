@@ -3,7 +3,7 @@
 A scene describes one or more [story events](/What%20is/a%20Story%20Event.md) that take place in your story, and can include [characters](/What%20is/a%20Character.md) and [locations](/What%20is/a%20Location.md).
 
 
-## Create a scene in the Scene List tool:
+## To create a scene in the Scene List tool:
 
 1. Assuming you have a [Project](/What%20is/a%20Project.md) open
 2. /BROKEN LINK/ Select the [Scene List tool](/What%20can%20I%20do%20with/the%20Scene%20List%20Tool.md)

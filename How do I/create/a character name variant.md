@@ -2,7 +2,7 @@
 
 A name variant is any name variation a [character](/What%20is/a%20Character.md) is referred to in your story [project](/What%20is/a%20Project.md).
 
-## Create a name variant after you've created a character:
+## To create a name variant after you've created a character:
 
 1. Assuming you have the [Character List Tool](/What%20can%20I%20do%20with/the%20Character%20List%20Tool.md) open
 2. Right-click on the character
