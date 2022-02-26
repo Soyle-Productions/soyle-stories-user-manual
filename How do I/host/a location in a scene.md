@@ -10,3 +10,5 @@ Hosting a [location](/What%20is/a%20Location.md) is a [scene](/What%20is/a%20Sce
 4. In the Scene Settings Tool, click "Use Location" button at the bottom
 5. From the dropdown menu, select the location you want to be hosted in the scene
 6. The location will now be hosted in the scene as shown in the Scene Settings Tool
+
+Your location will now appear in the Scene Settings. 

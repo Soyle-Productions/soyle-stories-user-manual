@@ -10,3 +10,5 @@ Including [characters](/What%20is/a%20Character.md) in your [scene](/What%20is/a
 4. In the Scene Characters Tool, click the "Add Character" button at the bottom
 5. From the dropdown menu, select the character you want included in the scene
 6. The character will now appear in the Scene Characters Tool and is included in the scene
+
+You character is now included in the Scene Characters.
