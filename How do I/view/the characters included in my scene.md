@@ -8,3 +8,7 @@
 3. Select "Track Characters" in the drop down menu to open the Scene Characters tool
 
 In the Scene Characters tool, you can view the characters you've included in your scene. 
+
+
+
+Different from characters mentioned but the tool will show both. 
