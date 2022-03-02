@@ -11,7 +11,7 @@ A location is the setting for your [story events](/What%20is/a%20Story%20Event.m
 ### Things that can be done with or to a location:
 
 - [Create]() or [delete]()
-- [List all locations in a project](/What%20can%20I%20do with/the%20Location%20List%20Tool.md)
+- [List all the locations in your project](/What%20can%20I%20do%20with/the%20Location%20List%20Tool.md)
 - [Rename a location](/How%20do%20I/rename/a%20location.md)
 - [Add]() or [remove]() the one location assignable to a scene
 - [Host scenes]() and [remove host scenes]()
