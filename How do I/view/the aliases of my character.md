@@ -8,4 +8,4 @@ A character profile is where you can view a character's alias after you [create 
 2. Right-click the character in the Character List Tool
 3. Select "View Profile"
 
-You should see the list of character alias in the ALSO KNOWN AS section of the character profile. 
+You should see the list of character aliases in the ALSO KNOWN AS section of the character profile. 
