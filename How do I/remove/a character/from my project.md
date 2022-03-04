@@ -1,6 +1,6 @@
 # How do I remove a character from my project?
 
-Removing your [character](/What%20is/a%20Character.md) from your [project](/What%20is/a%20Project.md) will remove that character from your project file. This is different from [removing a character from a scene](/How%20do%20I%20remove/a%20character%20from%my%20scene.md), for example. 
+Removing your [character](/What%20is/a%20Character.md) from your [project](/What%20is/a%20Project.md) will remove that character from your project file. This is different from [removing a character from a scene](/How%20do%20I/remove/a%20character/from%my%20scene.md), for example. 
 
 ## To remove a character from your project, assuming you've created the character:
 
