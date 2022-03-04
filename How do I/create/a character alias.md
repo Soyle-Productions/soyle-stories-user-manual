@@ -1,4 +1,4 @@
-# How do I create name variants for my character?
+# How do I create an alias for my character?
 
 A character alias is one or more alternative names you can create to refer to your [character](/What%20is/a%20Character.md), viewable in the [character's profile](/How%20do%20I/view/a%20character%20profile.md), and can be easily removed. An alias can be nicknames, professional titles, secret identities, etc. 
 
