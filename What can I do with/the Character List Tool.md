@@ -8,7 +8,7 @@ The Character List shows all the [characters](/What%20is/a%20Character.md) in yo
 - [create a character alias](/How%20do%20I/create/a%20character%20alias.md)
 - [remove a character from your project](/How%20do%20I/remove/a%20character/from%20my%20project.md) 
 - [rename a character](/How%20do%20I/rename/a%20character.md)
-- [view a character profile]
+- [view a character profile](/How%20do%20I/view/a%20character%20alias.md)
 
 
 
