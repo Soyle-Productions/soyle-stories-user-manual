@@ -1,4 +1,4 @@
-# How do I view the asliases of my character?
+# How do I view the aliases of my character?
 
 A character profile is where you can view a character's alias after you [create one or more alias for your character](/How%20do%20I/create/a%20character%20alias.md).
 
