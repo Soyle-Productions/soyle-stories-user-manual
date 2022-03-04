@@ -1,5 +1,5 @@
 # How do I create a character?
-Create a [character](/What%20is/a%20Character.md) to include in your story through the [Characters List Tool](/What%20is%.../the%20Characters%20List%20Tool.md). 
+Create a [character](/What%20is/a%20Character.md) to include in your story through the [Characters List Tool](/What%20can%20can%20I%20do%20with/the%20Character%20List%20Tool.md). 
 
 
 ## To create a character in the Character List tool:
